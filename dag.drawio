@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T09:59:25.674Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="Fqq73bLzWVYt08jn8zZI" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-25T14:07:05.795Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="CEwO69rrl9cZ7BwvAhfq" version="21.3.3" type="github">
   <diagram id="bkhS0injimwwEIBD8EdO" name="Page-1">
-    <mxGraphModel dx="1023" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="725" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -612,14 +612,14 @@
         <mxCell id="WKVWYoP5L8qsa05OdQmx-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WKVWYoP5L8qsa05OdQmx-10" target="WKVWYoP5L8qsa05OdQmx-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WKVWYoP5L8qsa05OdQmx-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WKVWYoP5L8qsa05OdQmx-10" target="gVJ47SnfQvIwhy-EmeJF-17" edge="1">
+        <mxCell id="WKVWYoP5L8qsa05OdQmx-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WKVWYoP5L8qsa05OdQmx-10" target="gVJ47SnfQvIwhy-EmeJF-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WKVWYoP5L8qsa05OdQmx-10" value="L2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="360" y="640" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WKVWYoP5L8qsa05OdQmx-14" value="F+1 certificates links does not work. Nodes receiving the green and red certificate commit L1 while no other nodes will ever see those certificates (the dag continues with the orange and the two white certificates)." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="400" y="480" width="180" height="130" as="geometry" />
+          <mxGeometry x="460" y="480" width="180" height="130" as="geometry" />
         </mxCell>
         <mxCell id="GWfnUuCO-fpIBHeR8MtB-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="40" y="880" width="40" height="40" as="geometry" />
@@ -973,7 +973,7 @@
         <mxCell id="Sc-g-Yudkon_fKL6TD1c-17" value="C" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="280" y="1320" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Sc-g-Yudkon_fKL6TD1c-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="Sc-g-Yudkon_fKL6TD1c-18" value="C" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="280" y="1400" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Sc-g-Yudkon_fKL6TD1c-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sc-g-Yudkon_fKL6TD1c-22" target="Sc-g-Yudkon_fKL6TD1c-1">
@@ -1024,7 +1024,7 @@
             <mxPoint x="240" y="1339.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sc-g-Yudkon_fKL6TD1c-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sc-g-Yudkon_fKL6TD1c-18" target="Sc-g-Yudkon_fKL6TD1c-22">
+        <mxCell id="Sc-g-Yudkon_fKL6TD1c-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sc-g-Yudkon_fKL6TD1c-18" target="Sc-g-Yudkon_fKL6TD1c-16">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="1259.5" as="targetPoint" />
             <mxPoint x="292.9775311682174" y="1400.7734164485792" as="sourcePoint" />
@@ -1095,7 +1095,7 @@
         <mxCell id="Sc-g-Yudkon_fKL6TD1c-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sc-g-Yudkon_fKL6TD1c-46" target="Sc-g-Yudkon_fKL6TD1c-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Sc-g-Yudkon_fKL6TD1c-46" value="C&#39;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="Sc-g-Yudkon_fKL6TD1c-46" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="290" y="1250.25" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Sc-g-Yudkon_fKL6TD1c-51" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -1275,7 +1275,7 @@
         <mxCell id="Sc-g-Yudkon_fKL6TD1c-95" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sc-g-Yudkon_fKL6TD1c-96" target="Sc-g-Yudkon_fKL6TD1c-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Sc-g-Yudkon_fKL6TD1c-96" value="C&#39;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="Sc-g-Yudkon_fKL6TD1c-96" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="290" y="1610.25" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Sc-g-Yudkon_fKL6TD1c-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sc-g-Yudkon_fKL6TD1c-100" target="Sc-g-Yudkon_fKL6TD1c-68">
@@ -1314,7 +1314,7 @@
         <mxCell id="Sc-g-Yudkon_fKL6TD1c-105" value="L2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="359" y="1840" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Sc-g-Yudkon_fKL6TD1c-106" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="Sc-g-Yudkon_fKL6TD1c-106" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Sc-g-Yudkon_fKL6TD1c-96">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="372.9775311682174" y="1840.7734164485796" as="sourcePoint" />
             <mxPoint x="320" y="1699.5" as="targetPoint" />
@@ -1530,7 +1530,7 @@
         <mxCell id="Sc-g-Yudkon_fKL6TD1c-246" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sc-g-Yudkon_fKL6TD1c-247" target="Sc-g-Yudkon_fKL6TD1c-212">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Sc-g-Yudkon_fKL6TD1c-247" value="C&#39;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="Sc-g-Yudkon_fKL6TD1c-247" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="290" y="1970.25" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Sc-g-Yudkon_fKL6TD1c-248" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sc-g-Yudkon_fKL6TD1c-251" target="Sc-g-Yudkon_fKL6TD1c-219">
@@ -1569,7 +1569,7 @@
         <mxCell id="Sc-g-Yudkon_fKL6TD1c-256" value="L2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="359" y="2200" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Sc-g-Yudkon_fKL6TD1c-257" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="Sc-g-Yudkon_fKL6TD1c-257" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Sc-g-Yudkon_fKL6TD1c-247">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="372.9775311682174" y="2200.7734164485796" as="sourcePoint" />
             <mxPoint x="320" y="2059.5" as="targetPoint" />
@@ -2112,7 +2112,7 @@
         <mxCell id="Sc-g-Yudkon_fKL6TD1c-382" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sc-g-Yudkon_fKL6TD1c-383" target="Sc-g-Yudkon_fKL6TD1c-348">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Sc-g-Yudkon_fKL6TD1c-383" value="C&#39;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="Sc-g-Yudkon_fKL6TD1c-383" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="250" y="2410.25" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Sc-g-Yudkon_fKL6TD1c-384" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sc-g-Yudkon_fKL6TD1c-387" target="Sc-g-Yudkon_fKL6TD1c-355">
@@ -2151,7 +2151,7 @@
         <mxCell id="Sc-g-Yudkon_fKL6TD1c-392" value="L2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="319" y="2640" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Sc-g-Yudkon_fKL6TD1c-393" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="Sc-g-Yudkon_fKL6TD1c-393" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Sc-g-Yudkon_fKL6TD1c-383">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="332.9775311682174" y="2640.7734164485796" as="sourcePoint" />
             <mxPoint x="280" y="2499.5" as="targetPoint" />
