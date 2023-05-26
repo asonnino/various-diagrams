@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-26T11:13:58.158Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="rMdTs87Y5jS6vHCecvBc" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-26T11:24:13.579Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="2DFqHg-PM4gH6ACrkA5i" version="21.3.4" type="github">
   <diagram id="bkhS0injimwwEIBD8EdO" name="Page-1">
     <mxGraphModel dx="989" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2538,8 +2538,8 @@
             <mxPoint x="320" y="1499.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R3X_Vqs4l2nirBzM8gkN-5" value="One node commits L1B because it does not see any certificate for L1A and 2f+1 certificates for L1B. However 2f certificates L1A may exist.&lt;br&gt;Upon recursion, L2 is committed and contains CAB in its path; according to the current commit rule, L1A should be committed.&lt;br&gt;We now have a fork" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1240.25" width="320" height="179.75" as="geometry" />
+        <mxCell id="R3X_Vqs4l2nirBzM8gkN-5" value="One node commits L1B because it does not see any certificate for L1A and 2f+1 certificates for L1B. However 2f certificates L1A may exist.&lt;br&gt;Upon recursion, L2 is committed and contains CAB in its path; according to the current commit rule, L1A should be committed.&lt;br&gt;We now have a fork&lt;br&gt;&lt;br&gt;Attempt: During recursion, if we see a single certificate for leader B but not leader A, we commit leader B instead of leader A" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1240.25" width="320" height="279.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
